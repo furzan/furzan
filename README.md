@@ -39,9 +39,15 @@ Computer Science student at **FAST NUCES** who enjoys building scalable web apps
 
 > If images don’t load instantly, refresh once — GitHub sometimes blocks first load.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furzan&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=furzan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=furzan&layout=compact&theme=radical" height="165"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furzan&layout=compact&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=furzan&theme=radical" height="165"/>
+</p>
+
 
 ---
 
