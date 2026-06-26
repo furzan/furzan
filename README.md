@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,40:1e1b4b,75:4c1d95,100:0d0d1f&height=210&section=header&text=Furzan%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20FAST%20NUCES&descAlignY=60&descSize=19&descColor=a5f3fc" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Building+LLM-powered+products+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Agentic+AI;MERN+%7C+Vue+%7C+FastAPI;FAST+NUCES+CS+%E2%80%94+CGPA+3.57+%F0%9F%8E%93;Open+to+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Building+LLM-powered+products+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Agentic+AI;MERN+%7C+Vue+%7C+FastAPI;FAST+NUCES+CS+%E2%80%94+%F0%9F%8E%93;Open+to+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
