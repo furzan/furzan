@@ -150,7 +150,7 @@ Team lunch API — voting, restaurants, shared balance pool & role-based access
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=furzan&theme=tokyonight&hide_border=true&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=furzan&theme=tokyonight&hide_border=true&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8" />
 </div>
 
 ---
