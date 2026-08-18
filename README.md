@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,40:1e1b4b,75:4c1d95,100:0d0d1f&height=210&section=header&text=Furzan%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20FAST%20NUCES&descAlignY=60&descSize=19&descColor=a5f3fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,40:047857,75:22c55e,100:022c22&height=210&section=header&text=Furzan%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20FAST%20NUCES&descAlignY=60&descSize=19&descColor=ecfdf5" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=818CF8&center=true&vCenter=true&width=620&lines=Building+LLM-powered+products+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Agentic+AI;MERN+%7C+Vue+%7C+FastAPI;FAST+NUCES+CS+%E2%80%94+%F0%9F%8E%93;Open+to+AI+Engineer+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=4ADE80&center=true&vCenter=true&width=700&lines=Building+LLM-powered+products+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Agentic+AI;MERN+%7C+Vue+%7C+FastAPI;FAST+NUCES+CS+%E2%80%94+%F0%9F%8E%93;Open+to+AI+Engineer+Roles+%F0%9F%9A%80&cursorColor=22C55E&background=00000000" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -188,7 +188,7 @@ Team lunch API — voting, restaurants, shared balance pool & role-based access
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1f,40:4c1d95,75:1e1b4b,100:0d0d1f&height=110&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,40:22c55e,75:047857,100:022c22&height=110&section=footer&animation=twinkling" />
 
 *"First, solve the problem. Then, write the code."*
 </div>
