@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,40:047857,75:22c55e,100:022c22&height=210&section=header&text=Furzan%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20FAST%20NUCES&descAlignY=60&descSize=19&descColor=ecfdf5" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,40:047857,75:22c55e,100:022c22&height=210&section=header&text=Furzan%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20FAST%20NUCES&descAlignY=60&descSize=19&descColor=ecfdf5" /> -->
+<img width="1885" height="458" alt="linkedin banner3" src="https://github.com/user-attachments/assets/921ee299-715c-4f65-bedd-5aff76e64c46" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=700&color=4ADE80&center=true&vCenter=true&width=700&lines=Building+LLM-powered+products+%F0%9F%A4%96;RAG+%7C+LangGraph+%7C+Agentic+AI;MERN+%7C+Vue+%7C+FastAPI;FAST+NUCES+CS+%E2%80%94+%F0%9F%8E%93;Open+to+AI+Engineer+Roles+%F0%9F%9A%80&cursorColor=22C55E&background=00000000" alt="Typing SVG" />
