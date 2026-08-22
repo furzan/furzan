@@ -187,6 +187,7 @@ Team lunch API — voting, restaurants, shared balance pool & role-based access
 
 </div>
 
+
 ---
 
 <div align="center">
