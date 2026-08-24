@@ -18,7 +18,7 @@
 
 I'm a CS graduate from **FAST NUCES Karachi** (CGPA: 3.57 · Dean's List × 6) building things at the intersection of **AI and full-stack development.**
 
-My focus lately is **agentic AI** — voice agents, multi-agent pipelines, and RAG systems that are genuinely useful, not just demos. I've interned at **10Pearls** and **Planet01**, shipping real features across backend and frontend. I care about clean architecture and solving problems that actually matter.
+My focus lately is **agentic AI** — voice agents, multi-agent pipelines, and RAG systems that are genuinely useful, not just demos. I've interned at **10Pearls**, **Planet01**, and **Unikrew**, working on real features across backend and frontend. I care about clean architecture and solving problems that actually matter.
 
 📍 Karachi, Pakistan &nbsp;·&nbsp; 📧 furzanahmed07@gmail.com &nbsp;·&nbsp; 🎯 Targeting **AI Engineer** roles
 
